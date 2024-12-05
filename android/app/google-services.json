@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739374285617",
+    "project_id": "asm-mobie2-42c1d",
+    "storage_bucket": "asm-mobie2-42c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739374285617:android:b7bddde66f688c4be76610",
+        "android_client_info": {
+          "package_name": "com.asm_mobie2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdk1zNR24cC6X9D_UvtU0CF-EOy9Lgnes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
